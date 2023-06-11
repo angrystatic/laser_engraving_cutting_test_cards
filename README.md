@@ -9,7 +9,7 @@ If this looks oversized in your browser, its because the file has some unique fe
 <ul>
   <li>It doesn't have any featuers for testing cutting</li>
     <ul>
-      <li>The idea is to make a different file later for cutting</li>
+      <li>The idea is to make a different file later for cutting, so far. For now its engraving only.</li>
   </ul>
   <li>The file is the shape and size of an envelope as a reference measurement</li>
   <li>Serif font Times New Roman 5pt to 12 pt size</li>
