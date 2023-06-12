@@ -1,7 +1,7 @@
 # laser_engraving_cutting_test_cards
 A simple set of SVG test cards for laser engraving / cutting
 
-<img src="https://github.com/angrystatic/laser_engraving_cutting_test_cards/blob/main/Laser%20Engraving%20Test%20Card%202023_06_11%20v4%20-%20White%20Background.png"
+<img src="https://github.com/angrystatic/laser_engraving_cutting_test_cards/blob/main/Laser%20Engraving%20Test%20Card%202023_06_11%20v5%20-White%20Background.png?raw=true"
      width = "624" />
      
 If this looks oversized in your browser, its because the file has some unique features:
